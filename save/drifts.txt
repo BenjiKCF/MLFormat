@@ -1,0 +1,14 @@
+
+*******************************************  Drifts coefficients *******************************************
+
+Outlet_Establishment_Year = 0.025579140657205235
+Outlet_Size = 0.023755435351466847
+Item_Type = 0.014539550013354052
+Item_Visibility = 0.012524094532208707
+Outlet_Identifier = 0.011980699522146976
+Outlet_Location_Type = 0.011418251706623028
+Item_Fat_Content = 0.010253174769835116
+Outlet_Type = 0.00944879497294182
+Item_Weight = 0.008759344468078911
+Item_MRP = 0.006550666615760425
+Item_Identifier = 0.004003708807199136
